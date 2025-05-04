@@ -1,32 +1,12 @@
 [
   {
-    title: "React Starter",
-    gitlink: "https://github.com/Srikar132/personal-cp",
-    description: "A minimal React starter template with basic configurations",
-    tags: ["frontend", "react"]
+    "title": "React Starter",
+    "gitlink": "https://github.com/Srikar132/personal-cp",
+    "description": "A basic React starter template"
   },
   {
-    title: "Node.js API Boilerplate",
-    gitlink: "https://github.com/srikar/node-api-template",
-    description: "Ready-to-use Node.js API setup with Express and MongoDB",
-    tags: ["backend", "api", "node"]
-  },
-  {
-    title: "Vite + Tailwind Starter",
-    gitlink: "https://github.com/srikar/vite-tailwind-template",
-    description: "Fast development with Vite and Tailwind CSS",
-    tags: ["frontend", "vite", "tailwind"]
-  },
-  {
-    title: "Fullstack MERN Boilerplate",
-    gitlink: "https://github.com/srikar/mern-boilerplate",
-    description: "Complete MongoDB, Express, React, Node.js stack",
-    tags: ["fullstack", "mern"]
-  },
-  {
-    title: "Static Site Template",
-    gitlink: "https://github.com/srikar/static-site-template",
-    description: "Simple HTML/CSS/JS template for static websites",
-    tags: ["frontend", "static"]
-  },
+    "title": "Another Template Example",
+    "gitlink": "https://github.com/username/repo",
+    "description": "Description for another template"
+  }
 ]
